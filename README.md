@@ -2,9 +2,6 @@
   <img src="https://svg-banners.vercel.app/api?type=wave&text=System%20Alerting%20and%20Cron%20Job%20Automation&width=1000&height=200" />
 </p>
 
-
-
-
 # 📘 System Health Monitoring & Alerting
 A sleek, automated system monitoring solution using **Bash scripts** + **Cron Jobs** that keeps your server healthy and alerts you instantly when something goes wrong.
 
