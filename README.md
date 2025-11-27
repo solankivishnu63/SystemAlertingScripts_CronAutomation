@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text=System%20Health%20Monitoring%20%26%20Alerting&width=1000&height=200" />
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text=System%20alerting%20and%20cron%20job%20automation&width=1000&height=200
+  " />
 </p>
 
 # 📘 System Health Monitoring & Alerting
