@@ -1,6 +1,25 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=block&text=System%20Alerting%20%26%20Cron%20Job%20Automation&width=1000&height=200" />
+<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#6a11cb"/>
+      <stop offset="100%" stop-color="#2575fc"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#00000055"/>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="200" rx="20" fill="url(#grad)"/>
+
+  <text x="50%" y="50%" fill="white" font-size="42" font-family="Arial, sans-serif"
+        font-weight="700" text-anchor="middle" dominant-baseline="middle"
+        filter="url(#shadow)">
+    System Alerting & Cron Job Automation
+  </text>
+</svg>
 </p>
+
 
 
 
