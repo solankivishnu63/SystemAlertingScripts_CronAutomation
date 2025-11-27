@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=block&text1=System%20Alerting%20%26%20Cron%20Job%20Automation&width=1000&height=200" />
+  <img src="https://svg-banners.vercel.app/api?type=block&text=System%20Alerting%20%26%20Cron%20Job%20Automation&width=1000&height=200" />
 </p>
+
 
 
 # 📘 System Health Monitoring & Alerting
