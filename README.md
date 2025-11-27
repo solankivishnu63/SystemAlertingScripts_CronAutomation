@@ -1,5 +1,3 @@
-\
-
 
 # 📘 System Health Monitoring & Alerting
 A sleek, automated system monitoring solution using **Bash scripts** + **Cron Jobs** that keeps your server healthy and alerts you instantly when something goes wrong.
