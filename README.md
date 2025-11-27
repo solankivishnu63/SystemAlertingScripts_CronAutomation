@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text=System%20alerting%20and%20cron%20job%20automation&width=1000&height=200" />
+ <img src="https://svg-banners.vercel.app/api?type=typeWriter&text=System%20Alerting%20and%20Cron%20Automation&width=1000&height=200" />
+
 </p>
 
 
