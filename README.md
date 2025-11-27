@@ -1,24 +1,7 @@
 <p align="center">
-<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#6a11cb"/>
-      <stop offset="100%" stop-color="#2575fc"/>
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="150%" height="150%">
-      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#00000055"/>
-    </filter>
-  </defs>
-
-  <rect width="1000" height="200" rx="20" fill="url(#grad)"/>
-
-  <text x="50%" y="50%" fill="white" font-size="42" font-family="Arial, sans-serif"
-        font-weight="700" text-anchor="middle" dominant-baseline="middle"
-        filter="url(#shadow)">
-    System Alerting & Cron Job Automation
-  </text>
-</svg>
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwMCIgaGVpZ2h0PSIyMDAiIHZpZXdCb3g9IjAgMCAxMDAwIDIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ3JhZCIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNmExMWNiIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzI1NzVmYyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9InNoYWRvdyIgeC0iMjAlIiB5PSItMjAlIiB3aWR0aD0iMTUwJSIgaGVpZ2h0PSIxNTAlIj4KICAgICAgPGZlRHJvcFNoYWRvdyBkeD0iMCIgZHk9IjQiIHN0ZERldmlhdGlvbj0iNiIgZmxvb2QtY29sb3I9IiMwMDAwMDA1NSIvPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjIwMCIgcng9IjIwIiBmaWxsPSJ1cmwoI2dyYWQpIi8+CiAgPHRleHQgeD0iNTAlIiB5PSI1MCUiIGZpbGw9IndoaXRlIiBmb250LXNpemU9IjQyIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiIGZpbHRlcj0idXJsKCNzaGFkb3cpIj5TeXN0ZW0gQWxlcnRpbmcgJiBDcm9uIEpvYiBBdXRvbWF0aW9uPC90ZXh0Pgo8L3N2Zz4=" />
 </p>
+
 
 
 
