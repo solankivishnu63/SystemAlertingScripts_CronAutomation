@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/4tF8BWR/system-alerting-banner.png" width="1000" />
-</p>
-
-
-
+\
 
 
 # 📘 System Health Monitoring & Alerting
