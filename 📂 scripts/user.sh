@@ -10,3 +10,4 @@ echo "scriptuser2:1234" | chpasswd # Set password for 'scriptuser2' to '1234'
 
 # userdel -r scriptuser # to delete user along with home directory
 # userdel scriptuser2 # to delete user without home directory 
+# --- IGNORE ---
